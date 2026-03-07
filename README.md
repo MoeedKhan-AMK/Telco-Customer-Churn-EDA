@@ -15,7 +15,13 @@
 - Contract Type is the Strongest Churn Indicator.
 
     1. Two-year contracts have a far lower churn rate of about 3%
-    
+    2. Month-to-month contracts have a high churn rate of about 43%
+Shorter contracts typically result in more frequent customer departures.
 - Low Tenure Customers Churn More.
+
+    1. Shorter contracts typically result in more frequent customer departures.
+Customers who stayed less than 1–2 years are significantly more likely to churn.
 - Higher Monthly Charges Increase Churn Risk.
+
+    1. 
 - Fiber Optic Internet Customers Churn More
