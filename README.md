@@ -1,7 +1,5 @@
 ## Project Objective
-- The project aimed to analyze customer behavior and identify factors responsible for churn in telecommunication company.
-- EDA(Exploratory Data Analysis) was implemented to investigate customer demographics, subscription patterns, service usage, and billing behavior.
-- Insights obtained from this analysis can help business design effective customer retention strategies.
+- The project aimed to analyze customer behavior and identify factors responsible for churn in telecommunication company. EDA(Exploratory Data Analysis) was implemented to investigate customer demographics, subscription patterns, service usage, and billing behavior. Insights obtained from this analysis can help business design effective customer retention strategies.
 
 ### Tools & Technologies
 1. Python
